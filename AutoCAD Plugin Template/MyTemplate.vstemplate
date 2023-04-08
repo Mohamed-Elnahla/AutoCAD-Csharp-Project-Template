@@ -2,8 +2,8 @@
   <TemplateData>
   
     <!-- Change the name and description as desired -->
-    <Name>AutoCAD 2022 Plugin</Name>
-    <Description>AutoCAD 2022 Plugin Project</Description>
+    <Name>AutoCAD 2023 Plugin</Name>
+    <Description>AutoCAD 2023 Plugin Project</Description>
 	
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>
@@ -12,7 +12,7 @@
     <CreateNewFolder>true</CreateNewFolder>
 	
     <!-- Change the default name as desired -->
-    <DefaultName>AutoCAD 2022 Plugin</DefaultName>
+    <DefaultName>AutoCAD 2023 Plugin</DefaultName>
 	
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>

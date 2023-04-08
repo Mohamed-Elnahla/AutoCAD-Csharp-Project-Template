@@ -26,7 +26,7 @@
     <StartAction>Program</StartAction>
 	
     <!-- Change the path to the installation folder of the  targeted AutoCAD version -->
-    <StartProgram>C:\Program Files\Autodesk\AutoCAD 2022\acad.exe</StartProgram>
+    <StartProgram>C:\Program Files\Autodesk\AutoCAD 2023\acad.exe</StartProgram>
 	
     <StartArguments>/nologo /b "start.scr"</StartArguments>
   </PropertyGroup>
@@ -42,15 +42,15 @@
   
     <!-- Change the paths to the targeted AutoCAD libraries -->
     <Reference Include="AcCoreMgd">
-      <HintPath>C:\ObjectARX 2022\inc\AcCoreMgd.dll</HintPath>
+      <HintPath>D:\SDK\AutoCAD 2023 SDK\inc\AcCoreMgd.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="AcDbMgd">
-      <HintPath>C:\ObjectARX 2022\inc\AcDbMgd.dll</HintPath>
+      <HintPath>D:\SDK\AutoCAD 2023 SDK\inc\AcDbMgd.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="AcMgd">
-      <HintPath>C:\ObjectARX 2022\inc\AcMgd.dll</HintPath>
+      <HintPath>D:\SDK\AutoCAD 2023 SDK\inc\AcMgd.dll</HintPath>
       <Private>False</Private>
     </Reference>
 	
